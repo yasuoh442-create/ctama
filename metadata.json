@@ -1,0 +1,8 @@
+{
+  "name": "Remix NMS CTAMA - Supervision Réseau",
+  "description": "Plateforme libre de supervision et gestion réseau (NMS) pour les agences et l\u0027infrastructure CTAMA en temps réel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
